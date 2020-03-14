@@ -12,3 +12,6 @@ python -m http.server     (if you have python installed)
 
 then go to http://localhost:8000/ and choose billiard.html file.
 
+![screeshot of the billiard](billiard.png)
+
+
