@@ -4,7 +4,7 @@ How to run:
 
 run on command line
 
-http-server . -p 8000     (if you have npm indstalled)
+http-server . -p 8000     (if you have npm installed)
 
 or
 
